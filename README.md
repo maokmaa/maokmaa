@@ -32,13 +32,6 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
-
-<h2 align="center">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=maokmaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=maokmaa&theme=material-palenight)](https://github.com/Elanza-48)
-</div>
-
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -48,3 +41,9 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
+
+<h2 align="center">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=maokmaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=maokmaa&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
