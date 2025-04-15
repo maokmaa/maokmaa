@@ -15,7 +15,7 @@ class marcoQuintanilla():
     self.name = "Marco Quintanilla";
     self.username = "maokmaa";
     self.location = "Las cabras, Chile";
-    self.instagram = "@maok_ma";
+    self.instagram = "@maok_maa";
     self.web = "Coming soon...";
   
   def __str__(self):
@@ -31,6 +31,13 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
+
+
+<h2 align="center">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=maokmaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=maokmaa&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
 
 <h4> IDE </h4>
 <span>
