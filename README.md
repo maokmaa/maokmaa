@@ -22,5 +22,5 @@ class marcoQuintanilla():
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = marcoQuintanilla()
 ```
