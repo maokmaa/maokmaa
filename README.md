@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Marco Quintanilla!](https://github.com/Danushka2/Danushka2/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" />
 
  I'm a self-taught developer
 
