@@ -4,6 +4,6 @@
 
  I'm a self-taught developer
 
-- 👨‍💻 self-taught developer 🦾
+- 👨‍💻 self-organized, communicative and kind to everyone. 🦾
 - 📚 My hobby is developing Discord bots. 😅
-- 💪🏼 Future Goals: Get my dream job and make my mark in technology
+- 💪🏼 Future Goals: Get my dream job and make my mark in technology.
